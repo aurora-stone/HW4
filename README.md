@@ -19,4 +19,4 @@ THEN I can save my initials and score
 ![Image](./screenshot.png)
 
 ## Link
-[Link to Application](www.github.com)
+[Link to Application](https://aurora-stone.github.io/HW4/)
